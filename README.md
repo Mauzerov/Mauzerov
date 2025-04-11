@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mauzerov
 - 👀 I’m interested in automatizations
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Data Science
 
 <!---
 Mauzerov/Mauzerov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
